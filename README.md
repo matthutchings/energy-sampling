@@ -1,6 +1,6 @@
 # energy-sampling
 This GitHub repository contains illustrative Python code examples for the PhD thesis of Matthew Hutchings, Cardiff University,
-entitled "Energy-based sampling strategies for the low-rank approximation of positive semidefinite matrices".
+entitled *"Energy-based sampling strategies for the low-rank approximation of positive semidefinite matrices"*.
 
 ## Contents
 This repository contains two Jupyter notebooks in Python.
