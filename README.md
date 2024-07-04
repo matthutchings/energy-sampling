@@ -29,7 +29,7 @@ We also report the improvement in terms of the trace, Frobenius and spectral nor
 
 ## Package requirements
 In order to run the code cells in the two Jupyter notebooks, the user will need to have the `jupyter` Python package installed
-(see also the installation instructions at [jupyter.org/install](jupyter.org/install).
+(see also the installation instructions at [jupyter.org/install](jupyter.org/install)).
 The other required Python packages are listed below:
 * `numpy`
 * `matplotlib`
