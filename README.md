@@ -15,7 +15,7 @@ We present the evolution of various approximation factors of the induced Nyströ
 and compare them to those obtained through random sampling proportional to the square of the diagonal of $\mathbf{K}$.
 
 ### Particle flow sampling notebook
-The notebook [Particle_Flow_Nystrom_Sampling.ipynb](notebooks/Particle_Flow_Nystrom_Sampling.ipynb)
+The notebook [Particle_Flow_Nystrom_Sampling_NB.ipynb](notebooks/Particle_Flow_Nystrom_Sampling_NB.ipynb)
 illustrates the particle-flow-based Nyström sample optimisation strategy described in the paper
 [*Local optimisation of Nyström samples through stochastic gradient descent*](https://link.springer.com/chapter/10.1007/978-3-031-25599-1_10)
 (and Chapter 5 of the thesis).
